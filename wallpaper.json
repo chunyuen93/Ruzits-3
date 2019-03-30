@@ -1,80 +1,303 @@
-[
-	{
-		"author": "",
-		"url": "https://drive.google.com/uc?id=1txVEJsUfnehkJ18KiIFrSfXAh_2WR8FC",
-		"thumbUrl": "https://lh6.googleusercontent.com/SwbFrbTiEZd7V2NYFMXT40Ol-bmUm_PL4f36ghEEdx-CTuFSqqD-9w_2f52xYhaBh70l3l3CE6SPTIaWCSgG=w1366-h657-rw",
-		"name": "Milkshake"
-	},
-	{
-		"author": "Annie Spratt",
-		"url": "https://drive.google.com/uc?id=1cRrdOJS4itE7o81inmxep3rrnftIno27",
-		"thumbUrl": "https://lh4.googleusercontent.com/oqS8ys_ZnpAN5GN1PIQzPwqIr27tNADfpM7ZNYH0cNG8_BZmz_D9oU20GhsN95i0d3ZbAB9nAsbUdcpFpB3o=w1366-h657-rw",
-		"name": "Spring is the time of plans and projects. ― Leo Tolstoy"
-	},
-	{
-		"author": "Federica Giusti",
-		"url": "https://drive.google.com/uc?id=108czzWS_Cpv14UOkorLd0pu6Mhgukl_v",
-		"thumbUrl": "https://lh6.googleusercontent.com/8KrmAWQi5N73j4wACK_LidcW0zvUQelHxXLZ2zRe-7HpBnHVanhzlG_qFGAPz-cEABlBGDKYE21Kh_UbcAuO=w1366-h657-rw",
-		"name": "Spring Break"
-	},
-	{
-		"author": "",
-		"url": "https://drive.google.com/uc?id=1okgBZZ-ZtWi0UoCuBksFiS4fl0vECRrb",
-		"thumbUrl": "https://lh6.googleusercontent.com/1kQfiuXnu456Va9VcO4EdYbN67QewdsVCzWOvwm6nY70fWzwDFrgmi-22uYpR-Xn9SjVq0IrRasqgye1dJWk=w1366-h657-rw",
-		"name": "Fire"
-	},
-	{
-		"author": "Irina Iriser",
-		"url": "https://drive.google.com/uc?id=1a_HAejKLq88u2nunxykG1ZDtRRKTNtZ6",
-		"thumbUrl": "https://lh6.googleusercontent.com/ny-mUyC3WcKSmrvMSgtbLZsLMOLFyvjD7qAPQf2jcAQUPuDvNmIjDM-ZPiU4ut2LfGKCTcdDsV79LMvwhMl-=w1366-h657-rw",
-		"name": "Red Tulips Blossom Flowers",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=17j-WFYS0866WxTZ8CjjhAyRDCkFS4NHZ",
-		"thumbUrl": "https://lh5.googleusercontent.com/fKOFBAmsyCCajS0xEA5KwflTJEOnxFKQmLcnKZ-G7KytYVZI-rT2qMEjhQIi9z4XF1YH_NhqRPhEfKOz34yb=w1366-h657-rw",
-		"name": "Kelabu",
-	},	
-	{
-		"author": "",
-		"url": "https://drive.google.com/uc?id=1cwTqGi7ypzhuLdWfEmy_ZN1Iqcp4aCYn",
-		"thumbUrl": "https://lh4.googleusercontent.com/ugDG12luB8XLp4X_W_w4oX8f4a5uXazSdxhZfE4faotc-MDK8UrER5MxaGEziWh-8FOrGAjd0T8eoEN9x8-d=w1366-h657-rw",
-		"name": "Osumwalls",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=136v90PF8g_jMbDMg-DFv8pOegHWUmhR2",
-		"thumbUrl": "https://lh6.googleusercontent.com/_a2GLSSkPiwkJMFpHnZoDNh8txlGYfnIW7boPtwJh-Wh2cXfqcoR-PGIvnthuDycPBzU5czVTu0NNrKIuYX2=w1366-h657-rw",
-		"name": "Rain",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1BqlC8gGoCtBB3Fa-pJ8HWlx94aIocynF",
-		"thumbUrl": "https://lh5.googleusercontent.com/amY6a_K5Pe2gr5eAA229sLj8QfUQWNVFUqBIyD3pHIYvyUzyFjD0f-_QljHEVseVLDUo8jGP2-XnKymUG8a0=w1366-h657-rw",
-		"name": "Retroronin",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1or_L9PzmkpN9djAINXhjfLsPEAAOjOQ_",
-		"thumbUrl": "https://lh6.googleusercontent.com/Glmqwc8ViByotCE14nn9tp7V-L0k_VqanAMYdNdtWbJ8N_j2XvTCd757yXXWf_NPogs6YmFPdvSU7B5CcTLt=w1366-h657-rw",
-		"name": "Retroronin 2",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1i_5xU2jXrOMJ0Bf2kx0Ao39aUW2Taf2R",
-		"thumbUrl": "https://lh5.googleusercontent.com/98oHmur0KYD0azTHAwjELiDRT470ykAhlCP_KXAenhbgvnz4PV2idXG-YMb60N3bqNquCJK0P0-Vl3ZNKnez=w1366-h657-rw",
-		"name": "Retroronin 3",
-	},	
-	{
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1L9W0gRP29nq0fJ08DTOO3S_fZmdIf2l9",
-		"thumbUrl": "https://lh6.googleusercontent.com/i8_TlMlK63zTD95GIZWHwWlwZKR38bpxWwyYiMxzPp9L2jzVndX0yvSfCGTiiR68xaVLeOW_t7b80z8SWPpw=w1366-h657-rw",
-		"name": "Roud",
-	},	
-	{
-		"author": "",
-		"url": "https://drive.google.com/uc?id=1UOuICD8i8qN2zdl9dtrPBHrsXISFfVfk",
-		"thumbUrl": "https://lh6.googleusercontent.com/kK9zQBYLcYOeclf5epvX69uyyGL9XIOrXnfI6b7xtGX45TqO89bZDoVNBEZz5CqW54mIpPnpVsJpIZ7yV108=w1366-h657-rw",
-		"name": "Sakura Cherry Blossom",
-	},	
-]
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Sweet Ice Cream Photography",
+				"url": "https://unsplash.it/5472/3648?image=1083",
+				"thumbUrl": "https://unsplash.it/400/200?image=1083",
+				"name": "Ceningan island, Indonesia",
+                "category": "people"
+			},
+            {
+				"author": "Samuel Zeller",
+				"url": "https://unsplash.it/4835/3223?image=1076",
+				"thumbUrl": "https://unsplash.it/400/200?image=1076",
+				"name": "London",
+                "category": "architecture"
+			},
+            {
+				"author": "Kevin Young",
+				"url": "https://unsplash.it/4835/3223?image=1067",
+				"thumbUrl": "https://unsplash.it/400?image=1067",
+				"name": "City 1067",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Aleksandra Boguslawska",
+				"url": "https://unsplash.it/4835/3223?image=1045",
+				"thumbUrl": "https://unsplash.it/400/200?image=1045",
+				"name": "Mountain 1045",
+                "category": "mountain"
+			},
+            {
+				"author": "Steve Carter",
+				"url": "https://unsplash.it/4835/3223?image=1044",
+				"thumbUrl": "https://unsplash.it/400/300?image=1044",
+				"name": "Crescent City, United States",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Christian Joudrey",
+				"url": "https://unsplash.it/4835/3223?image=1043",
+				"thumbUrl": "https://unsplash.it/400?image=1043",
+				"name": "Yosemite National Park, United States",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Eric Huang",
+				"url": "https://unsplash.it/4835/3223?image=993",
+				"thumbUrl": "https://unsplash.it/400/300?image=993",
+				"name": "Taipei City, Taiwan",
+                "category": "forest"
+			},
+            {
+				"author": "Sebastien Gabriel",
+				"url": "https://unsplash.it/4835/3223?image=987",
+				"thumbUrl": "https://unsplash.it/400?image=987",
+				"name": "Sunset 987",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Hide Obara",
+				"url": "https://unsplash.it/4835/3223?image=985",
+				"thumbUrl": "https://unsplash.it/400?image=985",
+				"name": "City 985",
+                "category": "city"
+			},
+            {
+				"author": "Fritz Bielmeier",
+				"url": "https://unsplash.it/4835/3223?image=991",
+				"thumbUrl": "https://unsplash.it/200/400?image=991",
+				"name": "Sunset 991",
+                "category": "forest,sunset"
+			},
+            {
+				"author": "Sven Scheuermeier",
+				"url": "https://unsplash.it/4835/3223?image=961",
+				"thumbUrl": "https://unsplash.it/300/400?image=961",
+				"name": "Mountain 961",
+                "category": "mountain"
+			},
+            {
+				"author": "Mike Petrucci",
+				"url": "https://unsplash.it/4835/3223?image=957",
+				"thumbUrl": "https://unsplash.it/400?image=957",
+				"name": "Forest 957",
+                "category": "forest"
+			},
+            {
+				"author": "Noah Baslé",
+				"url": "https://unsplash.it/4835/3223?image=958",
+				"thumbUrl": "https://unsplash.it/400?image=958",
+				"name": "Entrepierres, Sisteron, France",
+                "category": "nature"
+			},
+            {
+				"author": "Paulo Simões Mendes",
+				"url": "https://unsplash.it/4835/3223?image=960",
+				"thumbUrl": "https://unsplash.it/400?image=960",
+				"name": "Oleiros, Portugal",
+                "category": "satellite"
+			},
+            {
+				"author": "Sergei Akulich",
+				"url": "https://unsplash.it/4835/3223?image=937",
+				"thumbUrl": "https://unsplash.it/400/350?image=937",
+				"name": "Lake Ingalls, United States",
+                "category": "nature,animal"
+			},
+            {
+				"author": "Tim Swaan",
+				"url": "https://unsplash.it/4835/3223?image=944",
+				"thumbUrl": "https://unsplash.it/400/300?image=944",
+				"name": "Whangarei Falls, Whangarei, New Zealand",
+                "category": "forest,nature"
+			},
+            {
+				"author": "Tiago Aguiar",
+				"url": "https://unsplash.it/4835/3223?image=851",
+				"thumbUrl": "https://unsplash.it/400/300?image=851",
+				"name": "Beach 851",
+                "category": "ocean,beach"
+			},
+            {
+				"author": "Josh Felise",
+				"url": "https://unsplash.it/4835/3223?image=718",
+				"thumbUrl": "https://unsplash.it/400/300?image=718",
+				"name": "Wolf 718",
+                "category": "animal"
+			},
+            {
+				"author": "Jeremy Cai",
+				"url": "https://unsplash.it/4835/3223?image=609",
+				"thumbUrl": "https://unsplash.it/400/300?image=609",
+				"name": "Beach 609",
+                "category": "beach"
+			},
+            {
+				"author": "Pawel Kadysz",
+				"url": "https://unsplash.it/4835/3223?image=603",
+				"thumbUrl": "https://unsplash.it/300/400?image=603",
+				"name": "Ocean 603",
+                "category": "ocean"
+			},
+            {
+				"author": "Paula Borowska",
+				"url": "https://unsplash.it/4835/3223?image=593",
+				"thumbUrl": "https://unsplash.it/200/400?image=593",
+				"name": "Tiger 593",
+                "category": "animal"
+			},
+            {
+				"author": "Casey Fyfe",
+				"url": "https://unsplash.it/4835/3223?image=475",
+				"thumbUrl": "https://unsplash.it/200/400?image=475",
+				"name": "Mountain 475",
+                "category": "mountain"
+			},
+            {
+				"author": "Edan Cohen",
+				"url": "https://unsplash.it/4835/3223?image=590",
+				"thumbUrl": "https://unsplash.it/400?image=590",
+				"name": "People 590",
+                "category": "people"
+			},
+            {
+				"author": "Martin Staněk",
+				"url": "https://unsplash.it/4835/3223?image=377",
+				"thumbUrl": "https://unsplash.it/400/200?image=377",
+				"name": "Mountain 377",
+                "category": "mountain"
+			},
+            {
+				"author": "Samuel Rohl",
+				"url": "https://unsplash.it/4835/3223?image=412",
+				"thumbUrl": "https://unsplash.it/400/250?image=412",
+				"name": "Forest 412",
+                "category": "forest,nature"
+			},
+            {
+				"author": "Tirza van Dijk",
+				"url": "https://unsplash.it/4835/3223?image=339",
+				"thumbUrl": "https://unsplash.it/400?image=339",
+				"name": "Road 339",
+                "category": "road,black and white"
+			},
+            {
+				"author": "Anders Jildén",
+				"url": "https://unsplash.it/4835/3223?image=249",
+				"thumbUrl": "https://unsplash.it/400?image=249",
+				"name": "Brooklyn Bridge, New York, USA",
+                "category": "architecture"
+			},
+            {
+				"author": "Artur Pokusin",
+				"url": "https://unsplash.it/4835/3223?image=549",
+				"thumbUrl": "https://unsplash.it/400/300?image=549",
+				"name": "Road 549",
+                "category": "road"
+			},
+            {
+				"author": "Ales Krivec",
+				"url": "https://unsplash.it/4835/3223?image=560",
+				"thumbUrl": "https://unsplash.it/400/300?image=560",
+				"name": "Forest 560",
+                "category": "forest"
+			},
+            {
+				"author": "Paul Itkin",
+				"url": "https://unsplash.it/4835/3223?image=1030",
+				"thumbUrl": "https://unsplash.it/400/300?image=1030",
+				"name": "House 1030",
+                "category": "forest,house"
+			},
+            {
+				"author": "E+N Photographies",
+				"url": "https://unsplash.it/4835/3223?image=1003",
+				"thumbUrl": "https://unsplash.it/400/300?image=1003",
+				"name": "Besançon, Fraisans, France",
+                "category": "forest,animal,nature"
+			},
+            {
+				"author": "Nick Scheerbart",
+				"url": "https://unsplash.it/4835/3223?image=879",
+				"thumbUrl": "https://unsplash.it/400/200?image=879",
+				"name": "Forest 879",
+                "category": "forest"
+			},
+            {
+				"author": "Caleb Ralston",
+				"url": "https://unsplash.it/4835/3223?image=869",
+				"thumbUrl": "https://unsplash.it/200/400?image=869",
+				"name": "Mountain 869",
+                "category": "mountain"
+			},
+            {
+				"author": "Elliott Engelmann",
+				"url": "https://unsplash.it/4835/3223?image=992",
+				"thumbUrl": "https://unsplash.it/300/400?image=992",
+				"name": "Meru West, Tanzania",
+                "category": "sunset,mountain"
+			},
+            {
+				"author": "Roberto Nickson",
+				"url": "https://unsplash.it/4835/3223?image=1011",
+				"thumbUrl": "https://unsplash.it/300/400?image=1011",
+				"name": "Lake Louise, Canada",
+                "category": "people"
+			},
+            {
+				"author": "Erez Attias",
+				"url": "https://unsplash.it/4835/3223?image=1033",
+				"thumbUrl": "https://unsplash.it/400/200?image=1033",
+				"name": "Zurich Airport",
+                "category": "architecture"
+			}
+		]
+}

@@ -47,6 +47,12 @@
     
 	"Wallpapers":
         [
+		{
+		"name": "Milkshake",
+		"author": "",
+		"url": "https://drive.google.com/uc?id=1txVEJsUfnehkJ18KiIFrSfXAh_2WR8FC",
+		"thumbUrl": "https://lh6.googleusercontent.com/SwbFrbTiEZd7V2NYFMXT40Ol-bmUm_PL4f36ghEEdx-CTuFSqqD-9w_2f52xYhaBh70l3l3CE6SPTIaWCSgG=w1366-h657-rw",
+	},
 			{
 				"author": "Sweet Ice Cream Photography",
 				"url": "https://unsplash.it/5472/3648?image=1083",
